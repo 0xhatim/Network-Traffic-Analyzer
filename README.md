@@ -1,4 +1,5 @@
 # Network Traffic Analyzer
+![Go Shark Logo - Cyberpunk Style](https://i.imgur.com/DOZ8lku.png)
 
 This project provides a network traffic analyzer tool implemented in both Go and Python. The tool reads pcap files, analyzes network traffic, and detects various types of network activities, such as nmap scans, ARP poisoning, ICMP tunneling, and more. The output is provided in JSON format, containing detailed information about each detected packet.
 
