@@ -5,10 +5,12 @@ This project provides a network traffic analyzer tool implemented in both Go and
 
 ## Repository
 
-Find the source code and documentation on GitHub:
+Find the Refernce for functions and filters i used:
 
-- [Edit Repository](https://github.com/0xhatim/Network-Traffic-Analyzer/edit/main/README.md)
-- [View Repository](https://github.com/0xhatim/Network-Traffic-Analyzer/)
+
+- [Wire shark Lab Write up ](https://medium.com/@kumarishefu.4507/try-hack-me-wireshark-traffic-analysis-write-up-part-1-8fa705db0dae)
+- [Wire shark Lab Write up part 2 ](https://medium.com/@kumarishefu.4507/try-hack-me-wireshark-traffic-analysis-write-up-part-2-11d299b504f3)
+
 
 ## Requirements
 
