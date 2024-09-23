@@ -32,9 +32,7 @@ class BlueTeamTrafficAnalyzer:
             print(Fore.YELLOW + "Analyzing pcap file:", self.file_path)
             capture = pyshark.FileCapture(
                 self.file_path,
-                display_filter="arp or icmp or dns or tcp or udp",
-                only_summaries=True  
-            )
+                display_filter="arp or icmp or dns or tcp or udp"            )
         self.analyze_packets(capture)
         capture.close()
 
